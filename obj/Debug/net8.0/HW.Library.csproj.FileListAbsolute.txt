@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Library\HW.Library\bin\Debug\net8.0\HW.Library.exe
+C:\Users\Rog\source\repos\HW.Library\HW.Library\bin\Debug\net8.0\HW.Library.deps.json
+C:\Users\Rog\source\repos\HW.Library\HW.Library\bin\Debug\net8.0\HW.Library.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Library\HW.Library\bin\Debug\net8.0\HW.Library.dll
+C:\Users\Rog\source\repos\HW.Library\HW.Library\bin\Debug\net8.0\HW.Library.pdb
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\HW.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\HW.Library.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\HW.Library.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\HW.Library.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\HW.Library.dll
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\refint\HW.Library.dll
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\HW.Library.pdb
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\HW.Library.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Library\HW.Library\obj\Debug\net8.0\ref\HW.Library.dll
